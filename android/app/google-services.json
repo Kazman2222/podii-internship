@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247387524800",
+    "project_id": "jevelin-store-890c7",
+    "storage_bucket": "jevelin-store-890c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247387524800:android:f09b2b21c9744f2d4a2725",
+        "android_client_info": {
+          "package_name": "com.example.shopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247387524800-b9pepr8kp1u9i0uvhg65fpht0utp7ch1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRp6TcTvzEgy3FpwMpG1_a7JyCwaFhBBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247387524800-b9pepr8kp1u9i0uvhg65fpht0utp7ch1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
