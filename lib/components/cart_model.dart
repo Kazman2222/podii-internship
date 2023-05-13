@@ -41,7 +41,7 @@ class CartModel extends ChangeNotifier {
       _cartItems.add(shopItems[index]);
       print(_shopItems[index][3] + 1);
       _shopItems[index][3] = _shopItems[index][3] + 1;
-     // _shopItems[index][3].toString();
+    
     } else {
       print('it has been added');
         _shopItems[index][3] = _shopItems[index][3] + 1;
